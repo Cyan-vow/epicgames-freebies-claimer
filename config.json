@@ -13,4 +13,27 @@
 	],
 	"delay": 1440,
 	"loop": true
+}{
+	"accounts": [
+		{
+			"email": "mori@iloli.team",
+			"password": "A1chengjiale",
+			"secret": "YOUR_2FA_SECRET1_HERE_OR_EMPTY",
+			"rememberLastSession": true
+		},
+		{
+			"email": "mori2@iloli.team",
+			"password": "A1chengjiale",
+			"secret": "YOUR_2FA_SECRET2_HERE_OR_EMPTY",
+			"rememberLastSession": true
+		},		
+		{
+			"emai3": "mori3@iloli.team",
+			"password": "A1chengjiale",
+			"secret": "YOUR_2FA_SECRET1_HERE_OR_EMPTY",
+			"rememberLastSession": true
+		}
+	],
+	"delay": 1440,
+	"loop": true
 }
